@@ -6,17 +6,18 @@
     --color-black: 0 0 0;
     --color-white: 255 255 255;
 
-    --color-primary-50: 248 245 252;
-    --color-primary-100: 240 234 251;
-    --color-primary-200: 211 191 243;
-    --color-primary-300: 176 142 230;
-    --color-primary-400: 151 106 226;
-    --color-primary-500: 96 37 192;
-    --color-primary-600: 77 30 154;
-    --color-primary-700: 56 13 128;
-    --color-primary-800: 53 21 107;
-    --color-primary-900: 31 13 64;
-    --color-primary-950: 20 8 42;
+
+    --color-primary-50: 235 247 247;
+    --color-primary-100: 215 239 239;
+    --color-primary-200: 183 223 223;
+    --color-primary-300: 151 207 207;
+    --color-primary-400: 119 191 191;
+    --color-primary-500: 87 175 175;
+    --color-primary-600: 55 159 159;
+    --color-primary-700: 23 143 143;
+    --color-primary-800: 11 127 127;
+    --color-primary-900: 0 102 102;
+    --color-primary-950: 0 76 76;
 
     --color-gray-50: 249 250 251;
     --color-gray-100: 243 244 246;
@@ -30,17 +31,17 @@
     --color-gray-900: 17 24 39;
     --color-gray-950: 11 16 28;
 
-    --color-focusColor-50: 238 242 255;
-    --color-focusColor-100: 224 231 255;
-    --color-focusColor-200: 199 210 254;
-    --color-focusColor-300: 165 180 252;
-    --color-focusColor-400: 129 140 248;
-    --color-focusColor-500: 99 102 241;
-    --color-focusColor-600: 79 70 229;
-    --color-focusColor-700: 67 56 202;
-    --color-focusColor-800: 55 48 163;
-    --color-focusColor-900: 49 46 129;
-    --color-focusColor-950: 33 30 103;
+    --color-focusColor-50: 240 248 255;
+    --color-focusColor-100: 220 238 255;
+    --color-focusColor-200: 190 223 255;
+    --color-focusColor-300: 160 207 255;
+    --color-focusColor-400: 130 191 255;
+    --color-focusColor-500: 100 175 255;
+    --color-focusColor-600: 70 159 255;
+    --color-focusColor-700: 40 143 255;
+    --color-focusColor-800: 20 127 255;
+    --color-focusColor-900: 0 102 255;
+    --color-focusColor-950: 0 76 204;
 
     --color-red-50: 255 241 242;
     --color-red-100: 255 228 230;
