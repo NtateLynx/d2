@@ -30,7 +30,7 @@ describe SchoolMailer do
       end
 
       it "uses school name and default address as signature for emails" do
-        expect(mail[:from].value).to eq("#{school.name} <test@example.com>")
+        expect(mail[:from].value).to eq("#{school.name} <test@leseli.org.ls>")
       end
     end
 
